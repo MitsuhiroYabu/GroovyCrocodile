@@ -25,6 +25,8 @@
 - 音楽に合わせてリズムを刻む機能。
 - 最新情報を通知してくれる機能。
 
+
+
 # GroovyCrocodile
 Groovy Crocodile is rhythmic robot using solenoid.
 
@@ -40,13 +42,13 @@ Groovy Crocodile is rhythmic robot using solenoid.
 - Ruler
 - Scissors
 - Cutter
-- Seaweed
+- Glue stick
 - Woodworking bond
-- Tape (curing tape)
-- Name pen
+- Tape (Curing tape)
+- Felt-tip pen
 
 ## How to make
-Please see this video for how to make it.
+Please see [this video](https://youtu.be/Rg-PhzguhvI) for how to make it.
 
 ## Application
 We are considering the following functions. If you have any good ideas, please share them.
