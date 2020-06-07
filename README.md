@@ -1,3 +1,5 @@
+![GroovyCrocodile_snap](https://github.com/MitsuhiroYabu/GroovyCrocodile/blob/master/Snapshot.png)
+
 # ノリノリワニさん
 ノリノリワニさんは、ソレノイドを利用した愉快なロボットです。
 
